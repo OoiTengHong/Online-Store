@@ -34,6 +34,7 @@
             font-size: 20px;
             font-weight: 400;
         }
+
     </style>
 </head>
 <body>
@@ -58,34 +59,22 @@
 
 	<div class="container">
         <div class="row">
-            <div class="item col-md-3">
+             <div class="item col-md-3">
                 <div class="card">
                         <div class="card-head">
-                            <img src="assets/img/Automatic Film Processor/01.jpg" alt="img" class="card-img-top">
+                            <img src="assets/img/supplies/07.jpg" alt="img" class="card-img-top">
                         </div>
                         <div class="card-body">
                             
-                            <p class="text-center title">Agfa CP-1000 Table Top Processor</p>
+                            <p class="text-center title">MRI Breast Coil Covers</p>
                             
-                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='Automatic Film Processor.php'">More Info</button>
+                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='MRI Breast Coil Covers.php'">More Info</button>
                         </div>
 				</div>
-			</div>
-			<div class="item col-md-3">
-				<div class ="card">
-						<div class="card-head">
-                            <img src="assets/img/Automatic Film Processor/02.jpg" alt="img" class="card-img-top">
-                        </div>
-						 <div class="card-body">
-                            
-                            <p class="text-center title">JPI JP-33 Table-Top Processor</p>
-                            
-                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='Automatic Film Processor.php'">More Info</button>
-                        </div>
-				</div>
-			</div>
-        </div>    
-    </div>
+			</div>			
+		</div>
+	</div>   
+	
 
 	<script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>

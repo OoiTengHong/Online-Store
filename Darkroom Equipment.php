@@ -34,6 +34,7 @@
             font-size: 20px;
             font-weight: 400;
         }
+
     </style>
 </head>
 <body>
@@ -58,34 +59,37 @@
 
 	<div class="container">
         <div class="row">
-            <div class="item col-md-3">
+             <div class="item col-md-3">
                 <div class="card">
                         <div class="card-head">
-                            <img src="assets/img/Automatic Film Processor/01.jpg" alt="img" class="card-img-top">
+                            <img src="assets/img/Dark Equipment/01.gif" alt="img" class="card-img-top">
                         </div>
                         <div class="card-body">
                             
-                            <p class="text-center title">Agfa CP-1000 Table Top Processor</p>
+                            <p class="text-center title">Chemical Mixers</p>
                             
-                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='Automatic Film Processor.php'">More Info</button>
+                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='Dark Equipment.php'">More Info</button>
                         </div>
 				</div>
 			</div>
-			<div class="item col-md-3">
-				<div class ="card">
+			<div class ="item col-md-3">
+			<div class ="card">
+				<div class="suibian-box">
 						<div class="card-head">
-                            <img src="assets/img/Automatic Film Processor/02.jpg" alt="img" class="card-img-top">
-                        </div>
-						 <div class="card-body">
-                            
-                            <p class="text-center title">JPI JP-33 Table-Top Processor</p>
-                            
-                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='Automatic Film Processor.php'">More Info</button>
-                        </div>
+							<img src="assets/img/Dark Equipment/02.jpg" alt="img" class="card-img-top">
+						</div>						
+						<div class="card-body">
+								
+							<p class="text-center title">Densitometers, Sensitometers and Processor Q/C Software</p>
+								
+							<button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='Dark Equipment.php'">More Info</button>
+						</div>
 				</div>
-			</div>
-        </div>    
-    </div>
+				</div>
+			</div>				
+		</div>
+	</div>   
+	
 
 	<script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
