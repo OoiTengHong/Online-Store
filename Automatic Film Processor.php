@@ -67,7 +67,7 @@
                             
                             <p class="text-center title">Agfa CP-1000 Table Top Processor</p>
                             
-                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='Automatic Film Processor.php'">More Info</button>
+                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='Agfa CP-1000 Table Top Processor.php'">More Info</button>
                         </div>
 				</div>
 			</div>
@@ -80,7 +80,7 @@
                             
                             <p class="text-center title">JPI JP-33 Table-Top Processor</p>
                             
-                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='Automatic Film Processor.php'">More Info</button>
+                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='JPI JP-33 Table-Top Processor.php'">More Info</button>
                         </div>
 				</div>
 			</div>

@@ -68,7 +68,7 @@
                             
                             <p class="text-center title">High Voltage/High Tension Cables</p>
                             
-                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='High Voltage High Tension Cables.php'">More Info</button>
+                            <button class="btn btn-primary btn-sm eq-button" onclick="window.location.href='booking1.php'">More Info</button>
                         </div>
 				</div>
 			</div>			
